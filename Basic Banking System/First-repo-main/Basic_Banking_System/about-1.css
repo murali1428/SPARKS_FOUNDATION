@@ -1,0 +1,37 @@
+body{
+    font-family:  sans-serif;
+    background: url("https://img.freepik.com/free-vector/bank-card-coin-withdrawal-money-money-payment-symbol-vector-illustration_587448-912.jpg?w=2000");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  p
+  {
+    color: rgb(10, 10, 10);
+    float: left;
+    max-width: 45%;
+    padding: 25px;
+    line-height: 2em;
+  }
+  h1{
+    color: rgb(2, 6, 7);
+    text-shadow: 1px 1px white;
+    text-align: center;
+  }
+  ul.navbar li a {
+    display: block;
+    /* color: white; */
+    color: rgb(1, 28, 36);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: 520;
+    font-size: 5mm;
+  }
+
+  ul.navbar li a:hover {
+    background-color: rgba(0, 0, 0, 0.623);
+    color: rgb(0, 195, 255);
+    font-weight: 600;
+    border-radius: 30px;
+    box-shadow: 1px 1px white;
+  }
